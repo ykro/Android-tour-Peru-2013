@@ -7,4 +7,4 @@ Código de APIs JSON con Android
 DemoAPIv1 no usa librerías
 DemoAPIv2 usa librerías (Resty y Jackson) 
 
-Presentación en http://www.slideshare.net/ykro/android-tourperu2013
+Presentación en http://www.slideshare.net/ykro/android-tour-per-2013-apis-json-con-android
